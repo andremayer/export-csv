@@ -1,0 +1,9 @@
+"ID","KEY","NAME","FULLNAME","IATAAIRPORTCODE","TYPE","COUNTRY","LATITUDE","LONGITUDE","LOCATIONID","INEUROPE","COUNTRYCODE","CORECOUNTRY","DISTANCE"
+"376217",,"Berlin","Berlin, Germany",,"location","Germany",,,"8384","true","DE","true",
+"448103",,"Berlingo","Berlingo, Italy",,"location","Italy",,,"147721","true","IT","true",
+"425332",,"Berlingerode","Berlingerode, Germany",,"location","Germany",,,"124675","true","DE","true",
+"425326",,"Bernau bei Berlin","Bernau bei Berlin, Germany",,"location","Germany",,,"124669","true","DE","true",
+"314826",,"Berlin Tegel","Berlin Tegel (TXL), Germany","TXL","airport","Germany",,,,"true","DE","true",
+"314827",,"Berlin Schönefeld","Berlin Schönefeld (SXF), Germany","SXF","airport","Germany",,,,"true","DE","true",
+"334196",,"Berlin Hbf","Berlin Hbf, Germany",,"station","Germany",,,,"true","DE","true",
+"333977",,"Berlin Ostbahnhof","Berlin Ostbahnhof, Germany",,"station","Germany",,,,"true","DE","true",

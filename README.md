@@ -1,3 +1,3 @@
-Java Developer Test
+Java
 =============================
 software development

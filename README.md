@@ -1,3 +1,3 @@
 Java Developer Test
 =============================
-GoEuro - software development
+software development
